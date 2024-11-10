@@ -9,12 +9,12 @@ Featured Projects
 Caesar cipher
 A cesar encryption was performed for message encryption.
 Technologies Used: HTML, CSS, JavaScript.
-Link: [Link to repository or live demo].
+Link: [Link to repository]
 
-Project 2: [Project Name]
-Description: Brief description of the project.
+Long time not to see you
+A mini-game of guessing a number from 1 to 300 was held.
 Technologies Used: HTML, CSS.
-Link: [Link to repository or live demo].
+Link: [Link to repository]
 
 Installation
 To clone and run this portfolio on your local machine, follow these steps:
@@ -28,4 +28,9 @@ cd your-portfolio
 Open index.html in your preferred browser.
 Contact
 If you have any questions or would like to collaborate on a project, feel free to contact me:
+........................
+........
+....
+..
+.
 
