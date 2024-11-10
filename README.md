@@ -9,11 +9,13 @@ Featured Projects
 Caesar cipher
 A cesar encryption was performed for message encryption.
 Technologies Used: HTML, CSS, JavaScript.
+
 Link: [Link to repository]
 
 Long time not to see you
 A mini-game of guessing a number from 1 to 300 was held.
 Technologies Used: HTML, CSS.
+
 Link: [Link to repository]
 
 Installation
