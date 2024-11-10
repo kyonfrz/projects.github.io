@@ -15,7 +15,7 @@ Project 2: [Project Name]
 Description: Brief description of the project.
 Technologies Used: HTML, CSS.
 Link: [Link to repository or live demo].
------------------------------------------------------------------------------------------------
+
 Installation
 To clone and run this portfolio on your local machine, follow these steps:
 
@@ -28,6 +28,4 @@ cd your-portfolio
 Open index.html in your preferred browser.
 Contact
 If you have any questions or would like to collaborate on a project, feel free to contact me:
----------------------
------------
----------
+
